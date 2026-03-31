@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi, I'm Ioannis</b></h1>
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Informatics+Student;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+</p>
 ## About Me
 - I'm studying Informatics at the [University of Western Machedonia](https://cs.uowm.gr/).
 - At the moment, I'm particularly interested in full stack development and backend systems.
