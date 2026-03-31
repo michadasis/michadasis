@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hi, I am Ioannis </b></h1>
+<h1 align="center"><b>Hi, I'm Ioannis</b></h1>
 
 ## About Me
-- I am studying Informatics at the [University of Western Machedonia](https://cs.uowm.gr/).
-- I'm particularly interested in full stack development and backend systems
+- I'm studying Informatics at the [University of Western Machedonia](https://cs.uowm.gr/).
+- At the moment, I'm particularly interested in full stack development and backend systems.
 
 
 ## Socials
