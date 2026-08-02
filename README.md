@@ -3,8 +3,7 @@
 
 ## About Me
 - I'm studying Computer Science at the [University of Western Macedonia](https://cs.uowm.gr/).
-- At the moment, I'm particularly interested in full stack development and backend systems.
-
+- At the moment, I'm particularly interested in full stack development.
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnmichadasis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnmichadasis@gmail.com)
